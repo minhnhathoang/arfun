@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="zebra" size="1.000000 1.428571" />
+    <ImageTarget name="wolf" size="1.000000 1.428571" />
+    <ImageTarget name="stag" size="1.000000 1.428571" />
+    <ImageTarget name="sheep" size="1.000000 1.428571" />
+    <ImageTarget name="rhinoceros" size="1.000000 1.428571" />
+    <ImageTarget name="hippopotamus" size="1.000000 1.428571" />
+    <ImageTarget name="goat" size="1.000000 1.428571" />
+    <ImageTarget name="fox" size="1.000000 1.428571" />
+    <ImageTarget name="elephant" size="1.000000 1.428571" />
+    <ImageTarget name="eagle" size="1.000000 1.428571" />
+    <ImageTarget name="duck" size="1.000000 1.428571" />
+    <ImageTarget name="alligator" size="1.000000 1.428571" />
+  </Tracking>
+</QCARConfig>
